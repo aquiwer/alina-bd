@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alina-bd/static/css/main.94a78f7f.css",
-    "main.js": "/alina-bd/static/js/main.32886050.js",
+    "main.css": "/alina-bd/static/css/main.e101a03f.css",
+    "main.js": "/alina-bd/static/js/main.cfb4b894.js",
     "static/js/787.b8536d1d.chunk.js": "/alina-bd/static/js/787.b8536d1d.chunk.js",
     "index.html": "/alina-bd/index.html",
-    "main.94a78f7f.css.map": "/alina-bd/static/css/main.94a78f7f.css.map",
-    "main.32886050.js.map": "/alina-bd/static/js/main.32886050.js.map",
+    "main.e101a03f.css.map": "/alina-bd/static/css/main.e101a03f.css.map",
+    "main.cfb4b894.js.map": "/alina-bd/static/js/main.cfb4b894.js.map",
     "787.b8536d1d.chunk.js.map": "/alina-bd/static/js/787.b8536d1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94a78f7f.css",
-    "static/js/main.32886050.js"
+    "static/css/main.e101a03f.css",
+    "static/js/main.cfb4b894.js"
   ]
 }
