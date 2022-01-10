@@ -15,7 +15,21 @@ body {
     align-items: center;
     gap: 20px;
 }
+@keyframes showText {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+.counter-title-hidden{
+    opacity: 0;
+    overflow: hidden;
+}
 .counter-title{
+    overflow: auto;
+    animation: showText linear 1s 1;
     color: #fff;
     font-size: 35px;
     text-transform: uppercase;

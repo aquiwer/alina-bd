@@ -43,13 +43,11 @@ export const App = () => {
         <div className="counter-block">
             <Snowfall/>
             <div className='counter-info-block'>
-                {
-                    isShowAnim && <div>
-                        <div>
-                            <h1 className='counter-title'>Happy birthday, my dear Alina! ❤️</h1>
-                        </div>
+                <div>
+                    <div>
+                        <h1 className={isShowAnim ? 'counter-title' : 'counter-title-hidden'}>Happy birthday, my dear Alina! ❤️</h1>
                     </div>
-                }
+                </div>
 
                 <div className='counters-block'>
                     <div className="timer_section-count">
